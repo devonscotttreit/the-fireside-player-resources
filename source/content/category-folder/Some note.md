@@ -1,1 +1,1 @@
-Take thirty-six.
+Wow!
