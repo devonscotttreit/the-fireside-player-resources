@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-> [!QUOTE]+ Goblin Warrior
+> [!QUOTE] Goblin Warrior
 >
 > > *"Hurr-hurr!"*
 >
