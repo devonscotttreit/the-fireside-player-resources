@@ -142,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Some note"
+              "title": "Outline of index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +175,8 @@
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
     "Monsters/Goblins/Goblin Warrior.md",
-    "Resources/Images/Goblin Warrior.png",
     "index.md",
+    "Resources/Images/Goblin Warrior.png",
     "Resources/Images/goblin.jpg",
     "Resources/Images",
     "Resources",
